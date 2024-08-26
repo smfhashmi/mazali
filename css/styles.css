@@ -11204,6 +11204,10 @@ video.bg-video {
     left: 0;
     transform: none; /* Remove centering transformation */
   }
+  .masthead .masthead-content {
+  padding: 0;
+  margin-bottom: -90px;
+}
 }
 
 /* Coarse pointer devices (e.g., touchscreens) */
