@@ -25,3 +25,16 @@
   z-index: 2; /* Topmost layer */
   text-align: center;
 }
+
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.source-sans-3-auto {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
