@@ -7989,6 +7989,7 @@ fieldset:disabled .btn {
 
 .mb-5 {
   margin-bottom: 3rem !important;
+  font-family: Audiowide Regular !important;
 }
 
 .mb-auto {
@@ -8256,7 +8257,7 @@ fieldset:disabled .btn {
 }
 
 .fst-italic {
-  font-style: italic !important;
+  font-style: Audiowide Regular !important;
 }
 
 .fst-normal {
@@ -11203,11 +11204,15 @@ video.bg-video {
     top: 0;
     left: 0;
     transform: none; /* Remove centering transformation */
+   
   }
   .masthead .masthead-content {
+  margin-top: -20%;
   padding: 0;
-  margin-bottom: -90px;
+  margin-bottom: -25%;
 }
+
+
 }
 
 /* Coarse pointer devices (e.g., touchscreens) */
