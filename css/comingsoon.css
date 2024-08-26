@@ -1,7 +1,7 @@
 .logo {
   max-width: 350px;
-  margin-top: 8%;
-  margin-bottom: 80px;
+  margin-top: 20%;
+  margin-bottom: 35px;
   position: relative;
   z-index: 2; /* Topmost layer */
   text-align: center;
@@ -33,7 +33,7 @@
 }
 
 .source-sans-3-auto {
-  font-family: "Source Sans 3", sans-serif;
+  font-family: "Source Sans 3", sans-serif !important;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
